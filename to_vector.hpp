@@ -1,4 +1,6 @@
-// Rangesのパイプライン演算子で使用するstd::vectorへの変換関数ranges_util::to_vectorを提供します。
+// Rangesのパイプライン演算子で使用できるstd::vectorへの変換を提供します。
+// ranges_util::to_vector	型を推測してstd::vectorを作成する。
+// ranges_util::to_vector_as	型を指定してstd::vectorを作成する。
 
 #pragma once
 
