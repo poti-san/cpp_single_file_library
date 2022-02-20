@@ -1,3 +1,5 @@
+// Rangesのパイプライン演算子で使用するstd::vectorへの変換関数ranges_util::to_vectorを提供します。
+
 #pragma once
 
 #include <ranges>
