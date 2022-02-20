@@ -1,7 +1,6 @@
-// Ranges‚ÌƒpƒCƒvƒ‰ƒCƒ“‰‰Zq‚Åg—p‚·‚éstd::list‚Ö‚Ì•ÏŠ·ŠÖ”‚ğ’ñ‹Ÿ‚µ‚Ü‚·B
-// ranges_util::to_list		Œ^‚ğ„‘ª‚µ‚ÄƒŠƒXƒg‚ğì¬‚·‚éB
-// ranges_util::to_list_as	Œ^‚ğw’è‚µ‚ÄƒŠƒXƒg‚ğì¬‚·‚éB
-
+// Rangesã®ãƒ‘ã‚¤ãƒ—ãƒ©ã‚¤ãƒ³æ¼”ç®—å­ã§ä½¿ç”¨ã§ãã‚‹std::listã¸ã®å¤‰æ›ã‚’æä¾›ã—ã¾ã™ã€‚
+// ranges_util::to_list		å‹ã‚’æ¨æ¸¬ã—ã¦std::listã‚’ä½œæˆã™ã‚‹ã€‚
+// ranges_util::to_list_as	å‹ã‚’æŒ‡å®šã—ã¦std::listã‚’ä½œæˆã™ã‚‹ã€‚
 #pragma once
 
 #include <ranges>
