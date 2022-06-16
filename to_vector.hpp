@@ -1,6 +1,6 @@
-// Rangesのパイプライン演算子で使用できるstd::vectorへの変換を提供します。
-// ranges_util::to_vector	型を推測してstd::vectorを作成する。
-// ranges_util::to_vector_as	型を指定してstd::vectorを作成する。
+// Range adaptors to create std::vector.
+// ranges_util::to_list		Range to std::vector by estimated type.
+// ranges_util::to_list_as	Range to std::vector by specified type.する。
 
 #pragma once
 
