@@ -5,9 +5,6 @@
 
 int main()
 {
-	// std::views::iotaの仕様により無限ループになります。
-	// auto v1{ std::views::iota(0) | ranges_util::to_vector };
-
 	auto v2{ std::views::iota(0, 5) | ranges_util::to_vector };
 	// { 0, 1, 2, 3, 4 }
 
