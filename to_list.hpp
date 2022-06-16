@@ -1,6 +1,6 @@
-// Rangesのパイプライン演算子で使用できるstd::listへの変換を提供します。
-// ranges_util::to_list		型を推測してstd::listを作成する。
-// ranges_util::to_list_as	型を指定してstd::listを作成する。
+// Range adaptors to create std::list.
+// ranges_util::to_list		Range to std::list by estimated type.
+// ranges_util::to_list_as	Range to std::list by specified type.
 
 #pragma once
 
